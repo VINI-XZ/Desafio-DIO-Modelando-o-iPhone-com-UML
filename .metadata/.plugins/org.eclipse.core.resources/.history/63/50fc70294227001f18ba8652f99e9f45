@@ -1,0 +1,12 @@
+package iphone.aparelhoTelefonico;
+
+public interface AparelhoTelefonico {
+
+	public String ligar();
+	public void atenderLigacao();
+	public void iniciarCorreioVoz();
+	
+	
+	
+	
+}

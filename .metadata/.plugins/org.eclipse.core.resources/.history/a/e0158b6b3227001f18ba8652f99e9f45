@@ -1,0 +1,11 @@
+package iphone.musicPlayer;
+
+public class IPod implements MusicPlayer {
+
+	@Override
+	public void tocarMusica() {
+		System.out.println("Tocando Música");
+		
+	}
+
+}
